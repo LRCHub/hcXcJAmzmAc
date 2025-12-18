@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "夏霞",
+  "base_artist": "あたらよ",
+  "createdAt": "2025-12-18T15:53:02.331430Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夏霞 - Acoustic ver.",
+      "artist": "あたらよ",
+      "has_synced": true,
+      "path": "select/01_夏霞_-_Acoustic_ver._あたらよ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "夏霞 - From THE FIRST TAKE",
+      "artist": "あたらよ",
+      "has_synced": false,
+      "path": "select/02_夏霞_-_From_THE_FIRST_TAKE_あたらよ.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "夏霞",
+      "artist": "あたらよ",
+      "has_synced": true,
+      "path": "select/03_夏霞_あたらよ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "夏霞 - From THE FIRST TAKE",
+      "artist": "あたらよ",
+      "has_synced": true,
+      "path": "select/04_夏霞_-_From_THE_FIRST_TAKE_あたらよ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "夏霞",
+      "artist": "あたらよ",
+      "has_synced": true,
+      "path": "select/05_夏霞_あたらよ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "夏霞",
+      "artist": "あたらよ",
+      "has_synced": true,
+      "path": "select/06_夏霞_あたらよ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夏霞",
+      "artist": "あたらよ",
+      "has_synced": false,
+      "path": "select/pl_01_夏霞_あたらよ.txt"
+    }
+  ]
+}
